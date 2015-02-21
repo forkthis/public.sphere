@@ -1,0 +1,84 @@
+[
+    [
+        { "_key": "metadata" },
+        { "node": "Data" },
+        { "node": "Distributed Addressing" },
+        { "node": "Federated Semantic Graph" },
+        { "node": "Holographic Database" },
+        { "node": "Node" },
+        { "node": "Personal Lattice" },
+        { "node": "Sphere" },
+        { "node": "Visualisation & Navigation" },
+        { "url": "https://spreadsheets.google.com/feeds/cells/0AnVa7rwgRKG2dDY5Y0FZNTdHS1F5RU9yeWV5UW1CZmc/1/public/basic?alt=json" }
+    ],
+    [
+        { "_key": "Data" },
+        { "Applications": "Dragon" },
+        { "Elements": "Bits" },
+        { "Examples": "Information" },
+        { "Fundamentals": "Data" },
+        { "Inspirations": "Space" },
+        { "Node Services": "Node" },
+        { "Relationships": "weights" }
+    ],
+    [
+        { "_key": "Node" },
+        { "Applications": "Personal Cloud" },
+        { "Examples": "Page" },
+        { "Fundamentals": "Content" },
+        { "Inspirations": "Holons" },
+        { "Node Services": "Node Transport" },
+        { "Relationships": "authors" }
+    ],
+    [
+        { "_key": "Sphere" },
+        { "Applications": "Relevance Engines" },
+        { "Examples": "Bookmarks" },
+        { "Fundamentals": "Categories" },
+        { "Inspirations": "Trust Fields & Security" },
+        { "Node Services": "Node Sphere" },
+        { "Relationships": "knowns" }
+    ],
+    [
+        { "_key": "Personal Lattice" },
+        { "Applications": "Civilization Ball" },
+        { "Elements": "User History" },
+        { "Fundamentals": "Personal Graph" },
+        { "Inspirations": "Personal App & Data Ecosystem" },
+        { "Node Services": "Node Graph" },
+        { "Relationships": "labels" }
+    ],
+    [
+        { "_key": "Distributed Addressing" },
+        { "Applications": "Trust Exchange" },
+        { "Examples": "Social Graph" },
+        { "Fundamentals": "Content Addresses" },
+        { "Inspirations": "Trust Exchange" },
+        { "Node Services": "Node Map" },
+        { "Relationships": "queries" }
+    ],
+    [
+        { "_key": "Federated Semantic Graph" },
+        { "Applications": "              Massively Parallel Academic Research System" },
+        { "Examples": "Semantic Crunching" },
+        { "Fundamentals": "Collaboration Systems" },
+        { "Inspirations": "Federated forking collaboration hives" },
+        { "Node Services": "Node Collective" },
+        { "Relationships": "discoverables" }
+    ],
+    [
+        { "_key": "Holographic Database" },
+        { "Fundamentals": "Blockchain Network" },
+        { "Inspirations": "Access granted" },
+        { "Node Services": "Node Chain" },
+        { "Relationships": "contexts" }
+    ],
+    [
+        { "_key": "Visualisation & Navigation" },
+        { "Applications": "Core Network" },
+        { "Elements": "Immersive Environments" },
+        { "Inspirations": "Navigating cosmometry and light language directly" },
+        { "Node Services": "Node Nav" },
+        { "Relationships": "sequences" }
+    ]
+]
