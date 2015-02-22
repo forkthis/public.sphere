@@ -1,0 +1,82 @@
+[
+    [
+        { "_key": "metadata" },
+        { "node": "Black" },
+        { "node": "Blue" },
+        { "node": "Green" },
+        { "node": "Orange" },
+        { "node": "Purple" },
+        { "node": "Red" },
+        { "node": "White" },
+        { "node": "Yellow" },
+        { "url": "https://spreadsheets.google.com/feeds/cells/0AnVa7rwgRKG2dDd1aGZRQU5HMUNQU1NpSHF5Z0w2X3c/1/public/basic?alt=json" }
+    ],
+    [
+        { "_key": "Black" },
+        { "enlightened structures": "numberness" },
+        { "I Ching Trigram - AAA": "Earth" },
+        { "I Ching Trigram - AAA": "7" },
+        { "Planetary Force - HTW": "Earth" }
+    ],
+    [
+        { "_key": "Red" },
+        { "enlightened structures": "node" },
+        { "I Ching Trigram - AAA": "Fire" },
+        { "I Ching Trigram - AAA": "2" },
+        { "Planetary Force - HTW": "Saturn" },
+        { "Tribal Convergence - Category": "Science" },
+        { "Tribal Convergence - Discipline": "Earth Stewardship" }
+    ],
+    [
+        { "_key": "Orange" },
+        { "enlightened structures": "sphere" },
+        { "I Ching Trigram - AAA": "Lake" },
+        { "I Ching Trigram - AAA": "1" },
+        { "Planetary Force - HTW": "Moon" },
+        { "Tribal Convergence - Category": "Relations" },
+        { "Tribal Convergence - Discipline": "Guardianship" }
+    ],
+    [
+        { "_key": "Yellow" },
+        { "enlightened structures": "civilization balls" },
+        { "I Ching Trigram - AAA": "Wind" },
+        { "I Ching Trigram - AAA": "4" },
+        { "Planetary Force - HTW": "Mars" },
+        { "Tribal Convergence - Category": "Learning" },
+        { "Tribal Convergence - Discipline": "Consious Enterprise" }
+    ],
+    [
+        { "_key": "Green" },
+        { "enlightened structures": "distributed addressing" },
+        { "I Ching Trigram - AAA": "Mountain" },
+        { "I Ching Trigram - AAA": "6" },
+        { "Planetary Force - HTW": "Venus" },
+        { "Tribal Convergence - Category": "Wellness" },
+        { "Tribal Convergence - Discipline": "Village Infrastructure" }
+    ],
+    [
+        { "_key": "Blue" },
+        { "enlightened structures": "federated semantic graph" },
+        { "I Ching Trigram - AAA": "Water" },
+        { "I Ching Trigram - AAA": "5" },
+        { "Planetary Force - HTW": "Mercury" },
+        { "Tribal Convergence - Category": "Arts" },
+        { "Tribal Convergence - Discipline": "Media Communications" }
+    ],
+    [
+        { "_key": "Purple" },
+        { "enlightened structures": "visualisation & navigation" },
+        { "I Ching Trigram - AAA": "Thunder" },
+        { "I Ching Trigram - AAA": "3" },
+        { "Planetary Force - HTW": "Jupiter" },
+        { "Tribal Convergence - Category": "Spirituality" },
+        { "Tribal Convergence - Discipline": "Councilship" }
+    ],
+    [
+        { "_key": "White" },
+        { "enlightened structures": "holographic database" },
+        { "I Ching Trigram - AAA": "Heaven" },
+        { "I Ching Trigram - AAA": "0" },
+        { "Planetary Force - HTW": "Sun" }
+    ]
+]
